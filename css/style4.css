@@ -40,13 +40,32 @@ body{
 }
 
 
+.div-client{
+    font-size: calc(12px + (15 - 12) * ((100vw - 300px) / (1600 - 300)));;
+}
+
+.div-sec{
+    font-size: calc(12px + (15 - 12) * ((100vw - 300px) / (1600 - 300)));;
+}
+
 .heading{
     color: var(--ter);
     font-family: var(--font1);
+    font-size:calc(18px + (26 - 18) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .footer{
     color: var(--ter);
+}
+
+
+.john{
+    font-weight: 700;
+}
+
+
+.media-items:hover{
+    color: white;
 }
 
 .product-box{
@@ -59,11 +78,10 @@ body{
 
 .sec1{
     color: var(--ter);
+    font-size: calc(12px + (15 - 12) * ((100vw - 300px) / (1600 - 300)));;
 }
 
-.social-item:hover{
-    color: white;
-}
+
 
 /* ids */
 
