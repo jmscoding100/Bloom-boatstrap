@@ -41,11 +41,11 @@ body{
 
 
 .div-client{
-    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));;
+    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .div-sec{
-    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));;
+    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
 .heading{
@@ -78,7 +78,7 @@ body{
 
 .sec1{
     color: var(--ter);
-    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));;
+    font-size: calc(12px + (18 - 12) * ((100vw - 300px) / (1600 - 300)));
 }
 
 
